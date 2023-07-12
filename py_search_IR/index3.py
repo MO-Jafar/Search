@@ -1,0 +1,2 @@
+index={'data': {'df': 2, 'cf': 2, 'tfs': [1, 1], 'docs': [1, 2]}, 'document': {'df': 3, 'cf': 4, 'tfs': [2, 1, 1], 'docs': [0, 1, 2]}, 'learn': {'df': 2, 'cf': 2, 'tfs': [1, 1], 'docs': [0, 1]}, 'learnig': {'df': 1, 'cf': 1, 'tfs': [1], 'docs': [2]}, 'machin': {'df': 1, 'cf': 1, 'tfs': [1], 'docs': [0]}, 'scienc': {'df': 1, 'cf': 1, 'tfs': [1], 'docs': [2]}, 'thi': {'df': 3, 'cf': 3, 'tfs': [1, 1, 1], 'docs': [0, 1, 2]}}
+meta={'total_doc': 3, 'tw': [8, 7, 8]}
